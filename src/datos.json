@@ -1,0 +1,20 @@
+[
+    {
+        "id":0,
+        "titulo":"Ya hay actividades!!",
+        "descripcion":"funcional para chicos y grandes no te lo pierdas ",
+        "img":1
+    },
+    {
+        "id":1,
+        "titulo":"Comenzaron las obras",
+        "descripcion":"Nos enorgullese comentarles que luego de mucho esfuerzo y papeleria al fin se iniciaron las primeras reformas en el predio. Se alizo la cancha,se plantaron los primeros arboles y se coloco parte del cerco perimetral",
+        "img":2
+    },
+    {
+        "id":2,
+        "titulo":"Sorprendente vista de nuestro predio",
+        "descripcion":"Donde los sueños se estan haciendo realidad. Hermosa vista aerea del club, en pleno desarrollo del primer evento Cultural de la intitucion",
+        "img":3
+    }
+]
